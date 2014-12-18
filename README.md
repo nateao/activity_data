@@ -1,7 +1,3 @@
-activity_data
-=============
-
-Final Project for Coursera Getting and Cleaning Data Course
 ---
 title: "Getting and Cleaning Data Coursera Final Project"
 output: html_document
