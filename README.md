@@ -1,6 +1,4 @@
----
-title: "Getting and Cleaning Data Coursera Final Project"
-output: html_document
+activity_data
 ---
 
 This is the final project for the December 2014 Coursera Getting and Cleaning Data course, which is part of the Johns Hopkins Data Science specialization.
