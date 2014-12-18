@@ -1,6 +1,4 @@
----
-title: "activity_data_tidy Code Book"
-output: html_document
+activity_data_tidy Code Book
 ---
 
 ## Raw Data
